@@ -1,0 +1,16 @@
+
+public class R15Bike extends MotorBike {
+
+	@Override
+	public void breaks() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void handle() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class MainMethod {
+
+	public static void main(String[] args) {
+
+		Student student = new Student();
+		student.setId(1);
+		student.setName("ABCDE");
+		student.setMobileNumber("1234567890");
+		student.setAddress(null);
+
+		System.out.println(student);
+		String name = student.getName();
+		System.out.println(name);
+	}
+
+}

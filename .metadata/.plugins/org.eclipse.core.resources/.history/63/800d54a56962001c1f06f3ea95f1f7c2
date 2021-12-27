@@ -1,0 +1,13 @@
+
+public class Addition {
+
+	public static void main(String[] args) {
+		System.out.println("hello..!!");
+		Addition addition = new Addition();
+		addition.hello();
+	}
+	
+	public void hello() {
+		System.out.println("hello world..!!");
+	}
+}

@@ -1,0 +1,9 @@
+
+public class MainMethod {
+
+	public static void main(String[] args) {
+		MethodExamples methodexample = new MethodExamples();
+		methodexample.print();
+		methodexample.add(5, 5);
+	}
+}

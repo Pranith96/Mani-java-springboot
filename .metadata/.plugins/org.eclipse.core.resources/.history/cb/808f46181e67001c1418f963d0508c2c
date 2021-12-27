@@ -1,0 +1,11 @@
+
+public class MainMethod {
+
+	public static void main(String[] args) {
+		BikeImpl bike = new BikeImpl();
+		bike.breaks();
+		bike.engine();
+		bike.handle();
+		bike.wiring();
+	}
+}

@@ -1,0 +1,11 @@
+
+public class MethodExamples {
+
+	public void print() {
+		System.out.println("Print");
+	}
+
+	public void add(int a, int b) {
+
+	}
+}

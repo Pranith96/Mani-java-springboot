@@ -1,0 +1,7 @@
+
+public class MethodExamples {
+
+	public void print() {
+		System.out.println("Print");
+	}
+}
